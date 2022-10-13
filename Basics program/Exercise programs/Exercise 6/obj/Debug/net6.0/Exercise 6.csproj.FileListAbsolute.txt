@@ -1,0 +1,15 @@
+C:\Users\ArunSivakumar\OneDrive - Syncfusion\Desktop\C#\basics program\Exercise programs\Exercise 6\bin\Debug\net6.0\Exercise 6.exe
+C:\Users\ArunSivakumar\OneDrive - Syncfusion\Desktop\C#\basics program\Exercise programs\Exercise 6\bin\Debug\net6.0\Exercise 6.deps.json
+C:\Users\ArunSivakumar\OneDrive - Syncfusion\Desktop\C#\basics program\Exercise programs\Exercise 6\bin\Debug\net6.0\Exercise 6.runtimeconfig.json
+C:\Users\ArunSivakumar\OneDrive - Syncfusion\Desktop\C#\basics program\Exercise programs\Exercise 6\bin\Debug\net6.0\Exercise 6.dll
+C:\Users\ArunSivakumar\OneDrive - Syncfusion\Desktop\C#\basics program\Exercise programs\Exercise 6\bin\Debug\net6.0\Exercise 6.pdb
+C:\Users\ArunSivakumar\OneDrive - Syncfusion\Desktop\C#\basics program\Exercise programs\Exercise 6\obj\Debug\net6.0\Exercise 6.csproj.AssemblyReference.cache
+C:\Users\ArunSivakumar\OneDrive - Syncfusion\Desktop\C#\basics program\Exercise programs\Exercise 6\obj\Debug\net6.0\Exercise 6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ArunSivakumar\OneDrive - Syncfusion\Desktop\C#\basics program\Exercise programs\Exercise 6\obj\Debug\net6.0\Exercise 6.AssemblyInfoInputs.cache
+C:\Users\ArunSivakumar\OneDrive - Syncfusion\Desktop\C#\basics program\Exercise programs\Exercise 6\obj\Debug\net6.0\Exercise 6.AssemblyInfo.cs
+C:\Users\ArunSivakumar\OneDrive - Syncfusion\Desktop\C#\basics program\Exercise programs\Exercise 6\obj\Debug\net6.0\Exercise 6.csproj.CoreCompileInputs.cache
+C:\Users\ArunSivakumar\OneDrive - Syncfusion\Desktop\C#\basics program\Exercise programs\Exercise 6\obj\Debug\net6.0\Exercise 6.dll
+C:\Users\ArunSivakumar\OneDrive - Syncfusion\Desktop\C#\basics program\Exercise programs\Exercise 6\obj\Debug\net6.0\refint\Exercise 6.dll
+C:\Users\ArunSivakumar\OneDrive - Syncfusion\Desktop\C#\basics program\Exercise programs\Exercise 6\obj\Debug\net6.0\Exercise 6.pdb
+C:\Users\ArunSivakumar\OneDrive - Syncfusion\Desktop\C#\basics program\Exercise programs\Exercise 6\obj\Debug\net6.0\Exercise 6.genruntimeconfig.cache
+C:\Users\ArunSivakumar\OneDrive - Syncfusion\Desktop\C#\basics program\Exercise programs\Exercise 6\obj\Debug\net6.0\ref\Exercise 6.dll
