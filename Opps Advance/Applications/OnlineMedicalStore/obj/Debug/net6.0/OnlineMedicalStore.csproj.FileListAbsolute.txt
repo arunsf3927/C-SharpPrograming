@@ -1,0 +1,15 @@
+C:\Users\ArunSivakumar\OneDrive - Syncfusion\Desktop\Application\OnlineMedicalStore\obj\Debug\net6.0\OnlineMedicalStore.csproj.AssemblyReference.cache
+C:\Users\ArunSivakumar\OneDrive - Syncfusion\Desktop\Application\OnlineMedicalStore\obj\Debug\net6.0\OnlineMedicalStore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ArunSivakumar\OneDrive - Syncfusion\Desktop\Application\OnlineMedicalStore\obj\Debug\net6.0\OnlineMedicalStore.AssemblyInfoInputs.cache
+C:\Users\ArunSivakumar\OneDrive - Syncfusion\Desktop\Application\OnlineMedicalStore\obj\Debug\net6.0\OnlineMedicalStore.AssemblyInfo.cs
+C:\Users\ArunSivakumar\OneDrive - Syncfusion\Desktop\Application\OnlineMedicalStore\obj\Debug\net6.0\OnlineMedicalStore.csproj.CoreCompileInputs.cache
+C:\Users\ArunSivakumar\OneDrive - Syncfusion\Desktop\Application\OnlineMedicalStore\bin\Debug\net6.0\OnlineMedicalStore.exe
+C:\Users\ArunSivakumar\OneDrive - Syncfusion\Desktop\Application\OnlineMedicalStore\bin\Debug\net6.0\OnlineMedicalStore.deps.json
+C:\Users\ArunSivakumar\OneDrive - Syncfusion\Desktop\Application\OnlineMedicalStore\bin\Debug\net6.0\OnlineMedicalStore.runtimeconfig.json
+C:\Users\ArunSivakumar\OneDrive - Syncfusion\Desktop\Application\OnlineMedicalStore\bin\Debug\net6.0\OnlineMedicalStore.dll
+C:\Users\ArunSivakumar\OneDrive - Syncfusion\Desktop\Application\OnlineMedicalStore\bin\Debug\net6.0\OnlineMedicalStore.pdb
+C:\Users\ArunSivakumar\OneDrive - Syncfusion\Desktop\Application\OnlineMedicalStore\obj\Debug\net6.0\OnlineMedicalStore.dll
+C:\Users\ArunSivakumar\OneDrive - Syncfusion\Desktop\Application\OnlineMedicalStore\obj\Debug\net6.0\refint\OnlineMedicalStore.dll
+C:\Users\ArunSivakumar\OneDrive - Syncfusion\Desktop\Application\OnlineMedicalStore\obj\Debug\net6.0\OnlineMedicalStore.pdb
+C:\Users\ArunSivakumar\OneDrive - Syncfusion\Desktop\Application\OnlineMedicalStore\obj\Debug\net6.0\OnlineMedicalStore.genruntimeconfig.cache
+C:\Users\ArunSivakumar\OneDrive - Syncfusion\Desktop\Application\OnlineMedicalStore\obj\Debug\net6.0\ref\OnlineMedicalStore.dll

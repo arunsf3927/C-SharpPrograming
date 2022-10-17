@@ -1,0 +1,15 @@
+C:\Users\ArunSivakumar\OneDrive - Syncfusion\Desktop\Application\CollegeAdmissionApplication\bin\Debug\net6.0\CollegeAdmissionApplication.exe
+C:\Users\ArunSivakumar\OneDrive - Syncfusion\Desktop\Application\CollegeAdmissionApplication\bin\Debug\net6.0\CollegeAdmissionApplication.deps.json
+C:\Users\ArunSivakumar\OneDrive - Syncfusion\Desktop\Application\CollegeAdmissionApplication\bin\Debug\net6.0\CollegeAdmissionApplication.runtimeconfig.json
+C:\Users\ArunSivakumar\OneDrive - Syncfusion\Desktop\Application\CollegeAdmissionApplication\bin\Debug\net6.0\CollegeAdmissionApplication.dll
+C:\Users\ArunSivakumar\OneDrive - Syncfusion\Desktop\Application\CollegeAdmissionApplication\bin\Debug\net6.0\CollegeAdmissionApplication.pdb
+C:\Users\ArunSivakumar\OneDrive - Syncfusion\Desktop\Application\CollegeAdmissionApplication\obj\Debug\net6.0\CollegeAdmissionApplication.csproj.AssemblyReference.cache
+C:\Users\ArunSivakumar\OneDrive - Syncfusion\Desktop\Application\CollegeAdmissionApplication\obj\Debug\net6.0\CollegeAdmissionApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ArunSivakumar\OneDrive - Syncfusion\Desktop\Application\CollegeAdmissionApplication\obj\Debug\net6.0\CollegeAdmissionApplication.AssemblyInfoInputs.cache
+C:\Users\ArunSivakumar\OneDrive - Syncfusion\Desktop\Application\CollegeAdmissionApplication\obj\Debug\net6.0\CollegeAdmissionApplication.AssemblyInfo.cs
+C:\Users\ArunSivakumar\OneDrive - Syncfusion\Desktop\Application\CollegeAdmissionApplication\obj\Debug\net6.0\CollegeAdmissionApplication.csproj.CoreCompileInputs.cache
+C:\Users\ArunSivakumar\OneDrive - Syncfusion\Desktop\Application\CollegeAdmissionApplication\obj\Debug\net6.0\CollegeAdmissionApplication.dll
+C:\Users\ArunSivakumar\OneDrive - Syncfusion\Desktop\Application\CollegeAdmissionApplication\obj\Debug\net6.0\refint\CollegeAdmissionApplication.dll
+C:\Users\ArunSivakumar\OneDrive - Syncfusion\Desktop\Application\CollegeAdmissionApplication\obj\Debug\net6.0\CollegeAdmissionApplication.pdb
+C:\Users\ArunSivakumar\OneDrive - Syncfusion\Desktop\Application\CollegeAdmissionApplication\obj\Debug\net6.0\CollegeAdmissionApplication.genruntimeconfig.cache
+C:\Users\ArunSivakumar\OneDrive - Syncfusion\Desktop\Application\CollegeAdmissionApplication\obj\Debug\net6.0\ref\CollegeAdmissionApplication.dll
