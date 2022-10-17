@@ -1,0 +1,15 @@
+C:\Users\ArunSivakumar\OneDrive - Syncfusion\Desktop\C#\basics program\Exercise programs\sample\bin\Debug\net6.0\sample.exe
+C:\Users\ArunSivakumar\OneDrive - Syncfusion\Desktop\C#\basics program\Exercise programs\sample\bin\Debug\net6.0\sample.deps.json
+C:\Users\ArunSivakumar\OneDrive - Syncfusion\Desktop\C#\basics program\Exercise programs\sample\bin\Debug\net6.0\sample.runtimeconfig.json
+C:\Users\ArunSivakumar\OneDrive - Syncfusion\Desktop\C#\basics program\Exercise programs\sample\bin\Debug\net6.0\sample.dll
+C:\Users\ArunSivakumar\OneDrive - Syncfusion\Desktop\C#\basics program\Exercise programs\sample\bin\Debug\net6.0\sample.pdb
+C:\Users\ArunSivakumar\OneDrive - Syncfusion\Desktop\C#\basics program\Exercise programs\sample\obj\Debug\net6.0\sample.csproj.AssemblyReference.cache
+C:\Users\ArunSivakumar\OneDrive - Syncfusion\Desktop\C#\basics program\Exercise programs\sample\obj\Debug\net6.0\sample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ArunSivakumar\OneDrive - Syncfusion\Desktop\C#\basics program\Exercise programs\sample\obj\Debug\net6.0\sample.AssemblyInfoInputs.cache
+C:\Users\ArunSivakumar\OneDrive - Syncfusion\Desktop\C#\basics program\Exercise programs\sample\obj\Debug\net6.0\sample.AssemblyInfo.cs
+C:\Users\ArunSivakumar\OneDrive - Syncfusion\Desktop\C#\basics program\Exercise programs\sample\obj\Debug\net6.0\sample.csproj.CoreCompileInputs.cache
+C:\Users\ArunSivakumar\OneDrive - Syncfusion\Desktop\C#\basics program\Exercise programs\sample\obj\Debug\net6.0\sample.dll
+C:\Users\ArunSivakumar\OneDrive - Syncfusion\Desktop\C#\basics program\Exercise programs\sample\obj\Debug\net6.0\refint\sample.dll
+C:\Users\ArunSivakumar\OneDrive - Syncfusion\Desktop\C#\basics program\Exercise programs\sample\obj\Debug\net6.0\sample.pdb
+C:\Users\ArunSivakumar\OneDrive - Syncfusion\Desktop\C#\basics program\Exercise programs\sample\obj\Debug\net6.0\sample.genruntimeconfig.cache
+C:\Users\ArunSivakumar\OneDrive - Syncfusion\Desktop\C#\basics program\Exercise programs\sample\obj\Debug\net6.0\ref\sample.dll
